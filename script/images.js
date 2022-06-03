@@ -54,6 +54,10 @@ function configure(imageType) {
             getDuck();
             break;
 
+        case "cat":
+            getCat();
+            break;
+
         case "waifu":
         case "cuddle":
         case "catgirl":
