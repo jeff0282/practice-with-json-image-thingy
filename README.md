@@ -1,4 +1,4 @@
-# API-IMAGE-PRACTICE-THINGY-01
+#  practice-with-json-image-thingy
 A little JS thing I put together a while back to practice retrieving JSON data from External APIs. A Little Bit.. 'Questionable', But Practice is Practice!
 
 [Viewable Here!](https://projects.traviscampbell.info/image-thingy)
